@@ -1,0 +1,30 @@
+README
+======
+
+I did it as a part of homework problem in the Machine Learning class taught by Prof Daniel Gildea (https://www.cs.rochester.edu/~gildea/) in Spring 2014. Here I implemented a Gaussian Mixture Model (GMM) Clustering using Expectation Maximization (EM) algorithm.
+==========================================================================================================
+
+Name: Md. Iftekhar Tanveer
+Email: itanveer@cs.rochester.edu  or  mtanveer@z.rochester.edu
+Course: CS446
+Homework: EM algorithm
+
+
+************** Files ***************
+README: This document
+progAss2.py: The original python script. Just run the file using python. The main function will automatically called.
+voting2.dat: Dataset file
+
+************* Algorithm ************
+It is commented well in the code
+
+
+************* Results **************
+4 clusters. pictures attached
+
+************* Interpretations *****
+Max possible development likelihood falls if the number of cluster exceeds 4
+
+
+
+
